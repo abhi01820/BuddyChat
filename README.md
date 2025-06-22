@@ -6,8 +6,7 @@ A full-featured real-time **chat and video calling application** with a focus on
 
 ## 🚀 Demo
 
-🔗 **Live Demo**: [Click Here](#)  
-📹 **Preview Video**: [Watch Demo](#) *(Optional - Add YouTube/loom link)*
+🔗 **Live Demo**: [Click Here](https://buddychat-i9qy.onrender.com)  
 
 ---
 
